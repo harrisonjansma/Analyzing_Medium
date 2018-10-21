@@ -17,27 +17,13 @@ In this project I collected data on one million Medium stories from 36 of the mo
 This repository is a collection of everything I found while analyzing the data collected from Medium. I hope you think it as interesting as I do.
 
 
-# Scraping Medium with this Repository
+# How I Scraped Medium
 
 
-To use this scraper to collect your own data, you simply have to clone this repository to your local drive, then acquire a few more tools to make the scraper work. 
-
-First you will need to download the <a href="http://chromedriver.chromium.org/downloads">Chrome Driver</a> and place it in the same directory as the "scrape_master.py" and "medium_scraper.py" files. You will also need the following Python libraries you will need: Selenium, Pandas, BeautifulSoup.
-
-Before you can run the scraper, you need to specify the tags and range-of-dates to scrape in the "scrape_master.py" file.
-
-<br>
-<img src="img/master_scrape.JPG" height=300>
-<br>
-
-Afterwards you should be able to execute a scrape of multiple Medium tags for any range of dates by simply calling $python scrape_master.py
-<br>
-<img src="img/commans.JPG">
+If you want to collect your own data, I have made another repository that contains the python files I used to collect my data. You can find what you need in the <a href="https://github.com/harrisonjansma/Medium_Scraper">Medium_Scrape</a> repository.
 
 
-## How it works.
-
-This scraper pulls data from Medium's archive pages. Each archive page is associated to a story-tag and is a <b>collection of Medium timeline cards organized by date.</b>
+The scraper pulls data from Medium's archive pages. Each archive page is associated to a story-tag and is a <b>collection of Medium timeline cards organized by date.</b>
 <br>
 
 <h3 align="center"> Image of the "<a href="https://medium.com/tag/data-science/archive">data-science</a>" Archive</h3>
