@@ -18,24 +18,36 @@ This repository is a collection of everything I found while analyzing the data c
 
 
 # My Findings
+<br>
 
 ## 1. Most Stories on Medium receive very little reader engagement.
 <img align="center" src="img/res1.png" height=400>
+<br>
 
 ## 2. Stories are shorter in length. (2-3 Minutes)
 <img align="center" src="img/res2.png" height=400>
 
+<br>
+
 ## 3. Most authors only wrote one story, and a quarter were published in a publication.
 <img align="center" src="img/res4.png" height=400><img align="center" src="img/res3.png" height=400>
+
+<br>
 
 ## 4. The top 1% of stories received more than two thousand claps.
 <img align="center" src="img/res8.png" height=400>
 
+<br>
+
 ## 5. Authors can compare their stories to the top 1% of stories in their writing-topic.
 <img align="center" src="img/res7.png" height=400>
+
+<br>
 
 ## 6. The most-clapped stories on freeCodeCamp far outrank other, larger, publications.
 <img align="center" src="img/res6.png" height=400>
 
-## 7. Here are the top 100 most-clapped data-science writers on Medium of the last year. (I am 41st)
-<img align="center" src="img/res9.png" height=400>
+<br>
+
+## 7. <a href="https://github.com/harrisonjansma/Analyzing_Medium/blob/master/Medium_Author_Leaderboard.ipynb">Here</a> are the top 100 most-clapped data-science writers on Medium of the last year. (I am 41st)
+<img align="center" src="img/res9.PNG" height=400>
