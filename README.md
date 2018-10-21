@@ -8,11 +8,13 @@
 <a href="https://medium.com/@harrisonjansma">
 <img align="center" src="img/mediumhome.JPG" height=200></a>
 
-## This Project
+# This Project
+In this project I collected data on one million Medium stories from 36 of the most popular writing subjects. I used this data to answer the following questions.
+1. What do I need to know about Medium as a writer and as a reader? (<a href="https://github.com/harrisonjansma/Analyzing_Medium/blob/master/Medium_EDA.ipynb">source</a>)
+2. Who are the top Data-Science writers on Medium? (<a href="https://github.com/harrisonjansma/Analyzing_Medium/blob/master/Medium_Author_Leaderboard.ipynb">source</a>)
+3. How can Medium writer's measure the performance of their stories? How can they compare their performance to that of similar writers? (<a href="https://github.com/harrisonjansma/Analyzing_Medium/blob/master/Medium_EDA.ipynb">source</a>)
 
-This repository consists of a Selenium scraper that I used to scrape one million articles from the Medium archive pages in order to answer the question, "how many claps do exceptional articles receive?" The results of my analysis can be found in the <a href="https://github.com/harrisonjansma/Analyzing_Medium/blob/master/Medium_EDA.ipynb">Medium_analysis.ipynb</a> notebook. I also plan on writing a Medium article to convey my findings to the writers of Medium.
-
-
+This repository is a collection of everything I found while analyzing the data collected from Medium. I hope you think it as interesting as I do.
 
 
 # Scraping Medium with this Repository
