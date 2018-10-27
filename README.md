@@ -14,7 +14,7 @@ In this project I collected data on 720K unique Medium stories from 36 of the mo
 2. Who are the top Data-Science writers on Medium? (<a href="https://github.com/harrisonjansma/Analyzing_Medium/blob/master/Medium_Author_Leaderboard.ipynb">source</a>)
 3. How can Medium writer's measure the performance of their stories? How can they compare their performance to that of similar writers? (<a href="https://github.com/harrisonjansma/Analyzing_Medium/blob/master/Medium_EDA.ipynb">source</a>)
 
-This repository is a collection of everything I found while analyzing the data collected from Medium. I hope you think it as interesting as I do.
+This repository is a collection of everything I found while analyzing the data collected from Medium. For a list of key findings look in the next section. For my article, published in freeCodeCamp, anwering questions 1 and 3 above, look <a href="https://medium.freecodecamp.org/how-i-analyzed-a-million-medium-articles-to-learn-how-many-claps-great-stories-get-d688cf92759f">here.</a>
 
 
 # My Findings
